@@ -1,6 +1,6 @@
 # Computer-Architecture-Project
 
-CSUEB, Computer Architecture Project
+CSUEB, Computer Architecture
 
 Requires LogicWorks 5.6: https://designworkssolutions.com/logicworks-5-windows/
 
