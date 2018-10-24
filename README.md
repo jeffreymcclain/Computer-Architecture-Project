@@ -1,5 +1,7 @@
 # Computer-Architecture-Project
 
+CSUEB, Computer Architecture Project
+
 Requires LogicWorks 5.6: https://designworkssolutions.com/logicworks-5-windows/
 
 About MIPS: https://en.wikipedia.org/wiki/MIPS_architecture
